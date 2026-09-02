@@ -1,0 +1,10 @@
+﻿MultiSeatLauncher.exe
+MultiSeatLauncher_v2.exe
+*.exe
+GUEST.zip
+bin/
+obj/
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
